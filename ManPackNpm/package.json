@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "Shockwave",
+  "author": "ShockWave08",
+  "description": "This is a great way to start learning npm",
   "dependencies": {
     "express": "^4.14.0"
   },
